@@ -17,6 +17,7 @@
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
@@ -41,6 +42,7 @@
     "react-native-screens": "^3.20.0",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
+    "react-native-webview": "11.23.0",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1"
   },
